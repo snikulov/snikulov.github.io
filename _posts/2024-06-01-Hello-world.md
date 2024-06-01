@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hello Github blog!
-tags: [c++]
+tags: [c++, en]
+categories: [language, en]
 ---
 
 Here is the first post
